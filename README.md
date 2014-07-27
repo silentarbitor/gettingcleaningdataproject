@@ -1,4 +1,0 @@
-gettingcleaningdataproject
-==========================
-
-my project
