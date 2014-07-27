@@ -1,7 +1,7 @@
 #setwd("/Users/Tsundere/Desktop/Coursera/class 3/")
 run_analysis <- function()
 {
-  # get files from various directories
+  # get files from various directories, these paths are the paths for my computer
   setwd("/Users/Tsundere/Desktop/Coursera/class 3/project/test")
   testx <- read.table("X_test.txt")
   testy <- read.table("y_test.txt")
